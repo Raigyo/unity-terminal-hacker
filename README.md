@@ -7,7 +7,13 @@
 
 * * *
 
-Final WebGL build only. Unity files are too heavy for GitHub...
+Final WebGL build only (Unity files are too heavy for GitHub...)
+
+You can also clone this repo and use [http-server](https://www.npmjs.com/package/http-server) to launch the game using:
+
+``http-server./ `` (on the root of the game folder)
+
+## Content of the tutorial on Udemy
 
 - Learn C# from scratch. A powerful modern language.
 - Gain an excellent general knowledge of video game design.

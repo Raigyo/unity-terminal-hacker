@@ -2,7 +2,7 @@
 
 *August 2019*
 
-> 🔨  Tutorial Complete C# Unity Developer 3D: Learn to Code Making Games: Terminal Hacker - Basic C# from [Udemy](https://www.udemy.com/unitycourse2/learn/lecture/8047452). [Githubpage](https://raigyo.github.io/unity-terminal-hacker/index.html)
+> 🔨  Tutorial *Complete C# Unity Developer 3D: Learn to Code Making Games: Terminal Hacker - Basic C#* from [Udemy](https://www.udemy.com/unitycourse2/learn/lecture/8047452). [Githubpage](https://raigyo.github.io/unity-terminal-hacker/index.html)
 
 
 * * *

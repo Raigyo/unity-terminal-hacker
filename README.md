@@ -7,7 +7,7 @@
 
 * * *
 
-Final WebGL build only (Unity files are too heavy for GitHub...)
+Final WebGL build only.
 
 You can also clone this repo and use [http-server](https://www.npmjs.com/package/http-server) to launch the game using:
 
